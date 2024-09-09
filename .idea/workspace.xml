@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4678ba1d-99f5-40c7-ab8a-10e2a808282f" name="Changes" comment="" />
+    <list default="true" id="91f050d4-9e57-4c07-887a-72be44d9d983" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios1.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="2lqR0i4XYjroTX9QOSnO9bqGqog" />
+  <component name="ProjectId" id="2lqu4MSscXvs2HtIZJVYI9Rj82x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,6 +27,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -34,13 +44,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4678ba1d-99f5-40c7-ab8a-10e2a808282f" name="Changes" comment="" />
-      <created>1725905400413</created>
+      <changelist id="91f050d4-9e57-4c07-887a-72be44d9d983" name="Changes" comment="" />
+      <created>1725919736800</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1725905400413</updated>
-      <workItem from="1725905401089" duration="2000" />
+      <updated>1725919736800</updated>
+      <workItem from="1725919737817" duration="4000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
