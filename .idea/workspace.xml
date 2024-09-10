@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91f050d4-9e57-4c07-887a-72be44d9d983" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercicios1/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios1/Ex8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,9 @@
     "Application.Ex3.executor": "Run",
     "Application.Ex4.executor": "Run",
     "Application.Ex5.executor": "Run",
+    "Application.Ex6.executor": "Run",
+    "Application.Ex7.executor": "Run",
+    "Application.Ex8.executor": "Run",
     "Application.Ex9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -52,7 +55,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex7">
+  <component name="RunManager" selected="Application.Ex8">
     <configuration name="Ex10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicios1.Ex10" />
       <module name="Exercicios1" />
@@ -105,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicios1.Ex9" />
+    <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios1.Ex8" />
       <module name="Exercicios1" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex8" />
         <item itemvalue="Application.Ex7" />
         <item itemvalue="Application.Ex6" />
         <item itemvalue="Application.Ex5" />
         <item itemvalue="Application.Ex10" />
-        <item itemvalue="Application.Ex9" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +152,7 @@
       <workItem from="1725920333516" duration="189000" />
       <workItem from="1725920536294" duration="2778000" />
       <workItem from="1725925352633" duration="146000" />
-      <workItem from="1725926040894" duration="2997000" />
+      <workItem from="1725926040894" duration="3396000" />
     </task>
     <servers />
   </component>
