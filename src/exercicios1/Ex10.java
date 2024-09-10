@@ -16,6 +16,6 @@ public class Ex10 {
         valorct=cg.nextDouble();
         dia=ano*365*cigarro;
         valortt=dia*valorct;
-        System.out.println(valortt);
+        System.out.println("o valor total de gastos com cigarro no periodo é R$"+valortt);
     }
 }
